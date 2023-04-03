@@ -1,0 +1,14 @@
+#container{
+    height:40vh;
+    width: 50%;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    overflow-y: auto;
+}
+.border{
+    border-bottom: 1px solid black;
+    height: 20px;
+}
+#newComment{
+    width:50%;
+}

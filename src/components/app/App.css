@@ -1,0 +1,24 @@
+.App{
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+#container{
+  height:40vh;
+  width: 50%;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  overflow-y: auto;
+}
+.border{
+  border-bottom: 1px solid black;
+  height: 20px;
+}
+.first {
+  color: rgb(151, 84, 209);
+}
+#newComment{
+  width:50%;
+}
